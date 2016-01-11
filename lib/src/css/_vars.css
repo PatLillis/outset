@@ -1,19 +1,7 @@
-// SITE
-
-$site-width: 960px;
-$site-gutter: 7.5%;
-
-// BREAKPOINTS
+:root {
+  --siteWidth: 960px;
+  --siteGutter: 7.5%;
+}
 
 @custom-media --tablet (min-width: 768px)
 @custom-media --desktop (min-width: 1024px)
-
-// $tablet: ;
-// $desktop: ;
-
-// FONTS
-
-// $sans: ;
-// $serif: ;
-
-// COLORS
