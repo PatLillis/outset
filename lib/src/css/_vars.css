@@ -5,6 +5,9 @@ $site-gutter: 7.5%;
 
 // BREAKPOINTS
 
+@custom-media --tablet (min-width: 768px)
+@custom-media --desktop (min-width: 1024px)
+
 // $tablet: ;
 // $desktop: ;
 
