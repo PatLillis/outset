@@ -1,6 +1,6 @@
 .container {
-  width: 100% - 2 * $site-gutter;
-  max-width: $site-width;
+  width: calc(100% - 2 * var(--siteGutter));
+  max-width: var(--siteWidth);
   margin-right: auto;
   margin-left: auto;
 }
