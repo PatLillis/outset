@@ -11,6 +11,7 @@
     "babelify":            "*",
     "browser-sync":        "*",
     "browserify":          "*",
+    "css-mqpacker":        "*",
     "cssnano":             "*",
     "gulp":                "*",
     "gulp-changed":        "*",
