@@ -26,6 +26,7 @@
     "node-notifier":       "*",
     "postcss-cssnext":     "*",
     "postcss-import":      "*",
+    "postcss-scss":        "*",
     "rucksack-css":        "*",
     "vinyl-buffer":        "*",
     "vinyl-source-stream": "*",
