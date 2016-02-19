@@ -17,7 +17,8 @@ In your terminal:
 ```bash
 $ outset [path]
 $ npm i
-$ gulp
+$ gulp 			# start server
+$ gulp --dev 	# start dev server (no uglifying)
 ```
 
 In your browser:
